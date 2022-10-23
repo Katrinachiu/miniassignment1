@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://katrinachiu.github.io/miniassignment1/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://katrinachiu.github.io/miniassignment1/</loc>
+</url>
+<url>
+<loc>https://katrinachiu.github.io/miniassignment1/doge.html</loc>
+<lastmod>2022-10-23T01:03:29-07:00</lastmod>
+<image:image>
+<image:loc>https://katrinachiu.github.io/miniassignment1/media/posts/1/25674222-2-2xl.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://katrinachiu.github.io/miniassignment1/homepage.html</loc>
+<lastmod>2022-10-23T01:06:27-07:00</lastmod>
+<image:image>
+<image:loc>https://katrinachiu.github.io/miniassignment1/media/posts/2/IMG_1187-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
